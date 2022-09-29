@@ -1,3 +1,4 @@
+# This script runs various descriptive statistics for "Talking to talkers."
 
 # source("data_prep/data_agg.R")
 

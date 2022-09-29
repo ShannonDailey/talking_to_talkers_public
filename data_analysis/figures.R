@@ -1,3 +1,4 @@
+# This file generates the figures found in "Talking to talkers."
 
 # source("data_prep/data_agg.R")
 library(ggpubr)

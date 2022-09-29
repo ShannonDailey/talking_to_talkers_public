@@ -1,3 +1,5 @@
+# This script runs the statistical analyses reported in the Supplementary
+# Materials for "Talking to Talkers."
 
 # source("data_prep/data_agg.R")
 library(tidyverse)

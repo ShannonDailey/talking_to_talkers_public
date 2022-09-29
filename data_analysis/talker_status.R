@@ -1,3 +1,6 @@
+# This script runs the statistical analyses reported in the sections
+# "Effect of Talker Status" and "Interaction of Age, Talk Status, and Gender"
+# of "Talking to talkers."
 
 # source("data_prep/data_agg.R")
 library(lme4)

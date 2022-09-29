@@ -1,3 +1,5 @@
+# This script runs the statistical analyses reported in the section
+# "Linguistic Input" of "Talking to talkers."
 
 # source("data_prep/data_agg.R")
 library(lme4)

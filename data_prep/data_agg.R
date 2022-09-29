@@ -1,5 +1,4 @@
-# This script imports and aggregates various data frames for
-# visualizations and analyses for "Talking to Talkers."
+# This script imports and aggregates various data frames for visualizations and analyses for "Talking to Talkers."
 # Shannon Dailey, shannon.dailey@duke.edu
 
 #### IMPORT DATA AND FUNCTIONS ####

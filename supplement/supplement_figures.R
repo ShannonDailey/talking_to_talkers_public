@@ -1,3 +1,5 @@
+# This script generates data visualizations found in the Supplementary
+# Materials for "Talking to Talkers."
 
 source("data_prep/data_agg.R")
 
